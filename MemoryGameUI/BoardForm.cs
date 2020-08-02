@@ -137,7 +137,6 @@ namespace MemoryGameUI
             }
         }
 
-        // $G$ NTT-999 (-5) You should have used enumerations here
         private void chooseFormSize(out int o_formHight, out int o_formWidth)
         {
             o_formHight = 0;
@@ -211,7 +210,7 @@ namespace MemoryGameUI
                 BottomLocation += 60;
             }
         }
-        // $G$ DSN-003 (-3) This method is too long. Should be split into several methods.
+        
         private void cardButton_Click(object i_Sender, EventArgs i_EventArgs)
         {
             MemoryGameCard currentCardRevealed;
