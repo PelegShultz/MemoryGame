@@ -23,8 +23,6 @@ namespace MemoryGameUI
         private Player m_FirstPlayer;
         private Player m_SecondPlayer;
         private bool m_IsAgainstComputer;
-
-        // $G$ DSN-001 (-15) Interaction logic should be put inside Form classes. - the ui should not know the aI - the AI belongs to the logic and the game manger only should use it for computer turns
         private ComputerAI m_ComputerMemory;
 
         internal void UpdateGameSettings(string i_BoardSize, Player i_FirstPlayer, Player i_SecondPlayer, bool i_IsAgaintComputer)
