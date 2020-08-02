@@ -1,0 +1,7 @@
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\bin\Debug\B20.Ex05.MemoryGameLogic.dll.config
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\bin\Debug\B20.Ex05.MemoryGameLogic.dll
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\bin\Debug\B20.Ex05.MemoryGameLogic.pdb
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\obj\Debug\MemoryGameLogic.csprojAssemblyReference.cache
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\obj\Debug\B20.Ex05.MemoryGameLogic.dll
+C:\Users\Peleg Shultz\Desktop\MemoryGame\MemoryGameLogic\obj\Debug\B20.Ex05.MemoryGameLogic.pdb
